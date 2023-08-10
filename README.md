@@ -1,5 +1,5 @@
 ## TweetParser
-TweetParser é um conjunto de notebooks para análise de tweets. Inclui a leitura e preparação dos dados, contagem de tweets por usuário e filtragem de notícias e bots. Realiza limpeza de texto, conversão de emojis e remoção de palavras-chave. A modelagem de tópicos é feita usando LDA, com visualização interativa. 
+TweetParser é uma coleção de notebooks para análise de tweets. Inclui a leitura e preparação dos dados, contagem de tweets por usuário e filtragem de notícias e bots. Realiza limpeza de texto, conversão de emojis e remoção de palavras-chave. A modelagem de tópicos é feita usando LDA, com visualização interativa. 
 
 ### Bibliotecas
 - NLTK;
