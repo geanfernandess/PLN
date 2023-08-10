@@ -14,10 +14,10 @@ TweetParser é um conjunto de notebooks para análise de tweets. Inclui a leitur
 A base de tweets coletados e utilizados no projeto está no diretório data. 
 
 ### Notebooks
-tweets_scraping: Raspagem de tweets com a biblioteca snscrape.<br>
-botometer_analysis: Verifica se as contas de usuários no Twitter são robôs ou pessoas reais. Retorna uma nota para cada conta, que mostra o quão provável é que seja um robô.<br>
-emoji_analyzer: Analisa emojis, conta a ocorrência de palavras alegres e tristes em cada tweet.<br>
-tweets_analyzer: Analisa os tweets coletados realizando pré-processamento, filtragem de notícias e bots, modelagem de tópicos com LDA e visualização interativa.
+**tweets_scraping**: Raspagem de tweets com a biblioteca snscrape.<br>
+**botometer_analysis**: Verifica se as contas de usuários no Twitter são robôs ou pessoas reais. Retorna uma nota para cada conta, que mostra o quão provável é que seja um robô.<br>
+**emoji_analyzer**: Analisa emojis, conta a ocorrência de palavras alegres e tristes em cada tweet.<br>
+**tweets_analyzer**: Analisa os tweets coletados realizando pré-processamento, filtragem de notícias e bots, modelagem de tópicos com LDA e visualização interativa.
 
 
 
